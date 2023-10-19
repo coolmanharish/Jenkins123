@@ -1,0 +1,24 @@
+Script command is started on Mon Mar 23 23:38:07 IST 2009.
+[mcsuser@ltra_mcs_fcm: ~/scripts/dds]sh worktomove.sh
+
+   Database Connection Information
+
+ Database server        = DB2/AIX64 9.5.3
+ SQL authorization ID   = MCSUSER
+ Local database alias   = PRODLTRA
+
+rm: bb.txt: A file or directory in the path name does not exist.
+DB21034E  The command was processed as an SQL statement because it was not a 
+valid Command Line Processor command.  During SQL processing it returned:
+SQL30081N  A communication error has been detected.  Communication protocol 
+being used: "TCP/IP".  Communication API being used: "SOCKETS".  Location 
+where the error was detected: "10.13.20.153".  Communication function 
+detecting the error: "recv".  Protocol specific error code(s): "*", "*", "0".  
+SQLSTATE=08001
+DB20000I  The TERMINATE command completed successfully.
+Moving Files from Work to inputDir_process
+cat: 0652-050 Cannot open ERICSSION_IN_MOBILITY.txt.
+Script Completed....
+[mcsuser@ltra_mcs_fcm: ~/scripts/dds]exit
+
+Script command is complete on Mon Mar 23 23:40:59 IST 2009.

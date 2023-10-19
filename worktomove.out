@@ -1,0 +1,13 @@
+
+   Database Connection Information
+
+ Database server        = DB2/AIX64 9.5.3
+ SQL authorization ID   = MCSUSER
+ Local database alias   = PRODLTRA
+
+rm: bb.txt: A file or directory in the path name does not exist.
+DB20000I  The SQL command completed successfully.
+DB20000I  The TERMINATE command completed successfully.
+Moving Files from Work to inputDir_process
+cat: 0652-050 Cannot open ERICSSION_IN_MOBILITY.txt.
+Script Completed....
